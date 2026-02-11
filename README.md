@@ -45,13 +45,26 @@ The dashboard provides insights to understand how EV technology has evolved and 
 
 ## 📂 Files Included
 - `EV_Energy_Analysis.pbix` → Power BI dashboard
-- `ev_data.csv` → Dataset
+- `ev_energy_efficiency.csv` → Dataset
 - `dashboard.png` → Dashboard screenshot
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+## Dashboard Screenshots
+
+### Overall Dashboard View
+![Overall Dashboard](screenshots/overview.png)
+
+### KPI Cards Section
+![KPI Cards](screenshots/kpi.png)
+
+### Chart Cards Section
+![Charts Section](screenshots/charts.png)
+
+### Filters & Slicers
+![Filters and Slicers](screenshots/slicers.png)
+
 
 ---
 
