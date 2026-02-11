@@ -54,16 +54,16 @@ The dashboard provides insights to understand how EV technology has evolved and 
 ## Dashboard Screenshots
 
 ### Overall Dashboard View
-![Overall Dashboard](screenshot/overview.png)
+![Overall Dashboard](screenshot/overview.PNG)
 
 ### KPI Cards Section
-![KPI Cards](screenshot/kpi.png)
+![KPI Cards](screenshot/kpi.PNG)
 
 ### Chart Cards Section
-![Charts Section](screenshot/charts.png)
+![Charts Section](screenshot/charts.PNG)
 
 ### Filters & Slicers
-![Filters and Slicers](screenshot/slicers.png)
+![Filters and Slicers](screenshot/slicers.PNG)
 
 
 ---
